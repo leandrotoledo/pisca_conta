@@ -1,0 +1,5 @@
+There are two files:
+- pisca_conta.pde:
+  It's an Arduino code written in Wiring/C++
+- pisca_conta.py:
+  A simple Python code that connect to Arduino using serial port
